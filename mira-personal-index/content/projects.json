@@ -1,0 +1,5 @@
+[
+  {"slug":"ai-practice","category":"AI & Digital Exploration","title":"AI 应用观察簿","summary":"从学习和内容创作中的具体任务出发，记录 AI 工具何时有用。","status":"Exploring","date":"","cover":"","coverAlt":"","tools":[],"url":"","body":["先选一项有明确交付物的任务，例如把零散材料整理成文章提纲。","后续记录每次尝试的输入、输出、人工核对步骤和修改时间。自动化与 AI Agent 将作为独立的实践条目。"]},
+  {"slug":"global-business","category":"Global Business Exploration","title":"服装外贸学习档案","summary":"围绕服装外贸，梳理国际市场、客户需求和交易流程。","status":"Exploring","date":"","cover":"","coverAlt":"","tools":[],"url":"","body":["从一件服装如何抵达海外客户开始，把市场、沟通、报价和交付拆成可独立学习的问题。","后续补充资料来源与仍待验证的问题。"]},
+  {"slug":"content-studio","category":"Personal Branding & Content","title":"内容创作档案","summary":"汇集 X、抖音、公众号及现代诗写作的创作线索。","status":"In Progress","date":"","cover":"","coverAlt":"","tools":[],"url":"https://x.com/Yunmo377","body":["公众号和现代诗账号是已有的创作经历。这个档案将逐步整理可公开的作品、选题与创作过程。","X 现阶段聚焦 AI 应用与个人成长观察。"]}
+]

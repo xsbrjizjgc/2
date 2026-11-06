@@ -1,0 +1,22 @@
+{
+  "name": "mira-personal-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i src/styles.css -o src/compiled.css --minify && node --import tsx src/build.jsx",
+    "preview": "python3 -m http.server 8080 --directory docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^4.3.4",
+    "tsx": "^4.23.15"
+  }
+}

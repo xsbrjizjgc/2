@@ -1,0 +1,23 @@
+{
+  "name": "Mira 云舒",
+  "penName": "橒墨",
+  "tagline": "A Life in Progress.",
+  "intro": "我把对 AI、全球商业和写作的好奇，放进正在进行的学习与实践里。",
+  "bio": ["我是 Mira 云舒，网络与新媒体专业本科在读。", "我关注人工智能如何改变个人能力、内容生产和全球商业，也在探索服装外贸、国际市场与数字商业之间的联系。", "我经营过公众号和现代诗自媒体账号。写作让我保留对日常的观察，也让我重新审视自己正在学什么、相信什么。"],
+  "interests": ["Artificial Intelligence", "Global Business & International Trade", "Digital Media & Personal Branding", "Poetry & Creative Writing", "Personal Growth & Independent Thinking"],
+  "values": "把想法放进实践，在技术、商业和人文之间，逐渐建立自己的判断。",
+  "photo": "",
+  "photoAlt": "Mira 云舒的个人照片",
+  "now": [
+    ["Currently Learning", "学习", "网络与新媒体专业课程，关注 AI 工具在学习和内容生产中的实际用法。"],
+    ["Currently Exploring", "探索", "了解服装外贸、国际市场与数字商业之间的联系。"],
+    ["Currently Building", "建设", "整理个人数字档案，逐步收录项目、写作和学习记录。"],
+    ["Currently Reading", "阅读", "书单待更新。"]
+  ],
+  "timeline": [
+    ["在读", "网络与新媒体", "本科阶段，持续学习数字传播与内容创作。", ""],
+    ["此前", "公众号与现代诗写作", "经营过公众号和现代诗自媒体账号，以橒墨为笔名创作。", ""],
+    ["未来", "持续更新数字档案", "逐步收录可以公开分享的 AI 实践、商业学习和原创作品。", "Planned"]
+  ],
+  "contacts": {"X / Twitter": "https://x.com/Yunmo377", "抖音": "", "公众号": "", "GitHub": "", "Email": ""}
+}
